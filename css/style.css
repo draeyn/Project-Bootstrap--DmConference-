@@ -1,0 +1,8 @@
+#jumbotron{
+	padding:120px 10px;
+	background:linear-gradient(rgba(0,0,0,0.45),rgba(0,0,0,0.45)),url(../img/conf.jpeg) no-repeat center / cover;
+}
+
+#esperti{
+	padding-top:60px;
+}
